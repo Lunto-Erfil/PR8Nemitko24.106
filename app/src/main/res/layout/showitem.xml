@@ -16,6 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="555dp"
             android:importantForAccessibility="no"
-            android:src="@drawable/happy" />
+            android:src="@drawable/happy"
+            tools:ignore="VisualLintWearMargin" />
     </LinearLayout>
 </ScrollView>
